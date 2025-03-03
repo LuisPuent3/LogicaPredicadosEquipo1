@@ -73,11 +73,4 @@ Este proyecto se distribuye bajo la licencia **MIT**.
 💡 *Creado con SymPy y Python para explorar la lógica de predicados.*
 ```
 
----
 
-### 🔹 **¿Qué incluye este README?**
-✔ Explicación clara del código  
-✔ Instalación y ejecución  
-✔ Ejemplo de salida  
-✔ Guía para solucionar errores  
-✔ Información sobre contribuciones y licencia  
